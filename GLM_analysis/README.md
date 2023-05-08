@@ -1,12 +1,13 @@
 The following files are modified by SJ to be run on r01 network project from JM's code written for uh2 aim1 data
 
-preprocessing steps:
+preprocessing done on data:
 fmriprep -> remove first 7 TRs from nifti -> tedana -> denoised images saved in derivatives/GLM_data
 event files from BIDS -> remove first 7 TRs from onset -> saved in derivatives/GLM_data
 confounds_timeseries.tsv from fmriprep output -> remove first 7 timepoints -> saved in derivatives/GLM_data
 copied over brain_mask
 
 discovery data = '/oak/stanford/groups/russpold/data/network_grant/discovery_BIDS_21.0.1/'
+
 validation data = '/oak/stanford/groups/russpold/data/network_grant/validation_BIDS/'
 
 - analyze_lev1.py
@@ -29,3 +30,4 @@ validation data = '/oak/stanford/groups/russpold/data/network_grant/validation_B
 
     - run_visualization.batch
     : batch script to run visualize_fixed_effects.py 
+
