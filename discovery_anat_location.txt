@@ -1,0 +1,13 @@
+T1
+sub-s03/ses-05/anat # completed during ses-13 (original one was bad quality)
+sub-s10/ses-09/anat
+sub-s19/ses-05/anat
+sub-s29/ses-04/anat
+sub-s43/ses-05/anat
+
+T2
+sub-s03/ses-04/anat
+sub-s10/ses-01/anat
+sub-s19/ses-03/anat
+sub-s29/ses-01/anat
+sub-s43: no T2

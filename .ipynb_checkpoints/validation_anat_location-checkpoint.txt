@@ -1,0 +1,7 @@
+T1
+sub-s76/ses-07/anat
+sub-s247/ses-01/anat
+
+T2
+sub-s76/ses-07/anat
+sub-s247/ses-01/anat

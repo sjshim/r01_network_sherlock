@@ -1,0 +1,15 @@
+#sherlock directories ignored for now
+analysis/
+code_for_sunjae/
+behavior_preprocessing/
+dual_task_analysis/
+me_combination/
+preprocessing/
+sbatches/
+connectivity_analysis/
+extract_timeseries/
+nilearn_cache/
+qc_tedana/
+BIDS_scripts/
+pilot_subjects.txt
+README.md
