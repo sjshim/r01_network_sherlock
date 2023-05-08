@@ -13,3 +13,5 @@ qc_tedana/
 BIDS_scripts/
 pilot_subjects.txt
 README.md
+
+*/__pycache__/
