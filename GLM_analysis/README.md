@@ -31,3 +31,6 @@ validation data = '/oak/stanford/groups/russpold/data/network_grant/validation_B
     - run_visualization.batch
     : batch script to run visualize_fixed_effects.py 
 
+-----------------------------------------------------------------------------------------------------------------
+- check_average_TR
+: scripts and figures for investigating average TR of scans per task to use as cutoffs for incomplete scans
