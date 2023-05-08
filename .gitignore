@@ -15,3 +15,7 @@ pilot_subjects.txt
 README.md
 
 */__pycache__/
+*/.DS_store
+*/._.DS_store
+*/._analyze_lev1.py
+*/._network_excluded_subjects.csv
