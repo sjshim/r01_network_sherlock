@@ -25,11 +25,11 @@ validation data = '/oak/stanford/groups/russpold/data/network_grant/validation_B
 - launch_all_lev1_sherlock.sh
 : bash script that runs all batch files created by make_lev1_batch_files.py
 
-- visualize_fixed_effects.py
-: python script that creates visualization .pdf files of fixed effects and individual run nifti images
+- visualize_fixed_effects.py / visualize_yeo.py 
+: python script that creates visualization .pdf files of fixed effects and individual run nifti images / yeo networks
 
-    - run_visualization.batch
-    : batch script to run visualize_fixed_effects.py 
+    - run_visualization.batch / run_visualization_yeo.batch
+    : batch script to run visualize_fixed_effects.py / visualize_yeo.py
 
 -----------------------------------------------------------------------------------------------------------------
 - check_average_TR
