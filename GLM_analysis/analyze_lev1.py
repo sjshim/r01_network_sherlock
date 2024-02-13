@@ -105,7 +105,8 @@ def make_desmat_contrasts(
         confound_regressors = get_confounds_tedana(confounds_file, task)
     else:
         confound_regressors = None
-
+        
+    #you can use get_tr from above
     tr = 1.49
 
     design_matrix, contrasts, percent_junk, events_df = make_task_desmat_fcn_dict[task](
